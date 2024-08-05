@@ -1,8 +1,7 @@
 <img align="center" src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg" />
 
-
 ```python
-  Info: {
+  Info = {
     FullName: "Mani Heshmati Khah",
     Birthday: "2003 December 7",
     University: "Civil Engineering, Amirkabir University of Technology",
@@ -39,7 +38,7 @@
 
 <a>
   <img src="https://github-readme-stats.vercel.app/api?username=MoosioMani&show_icons=true&theme=dracula" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoosioMani" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoosioMani&hide_progress=true" />
 </a>
 
 <h2>📞 &nbsp; Connct Me </h2>
@@ -52,3 +51,5 @@
     <img src="https://img.shields.io/badge/Telegram-@moosio_mani-blue?style=flat&logo=telegram" />
   </a>
 </p>
+
+
